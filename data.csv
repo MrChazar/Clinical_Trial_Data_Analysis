@@ -1,0 +1,401 @@
+Subject,Age (years),Gender,SBP (mm Hg),Heart rate (bpm),Smoking,Chest pain symptoms,Race,Treatment,CAD present?,CAD-free time (days),Hospital
+1,65.6,Male,150,79,Past,Typical chest pain,White,Intervention,Yes,1313,Hospital A
+2,66.7,Male,184,81,Past,No chest pain,White,Control,Yes,1081,Hospital A
+3,67.6,Male,118,96,Never,No chest pain,White,Control,No,1657,Hospital A
+4,67.7,Male,117,89,Past,Typical chest pain,White,Control,Yes,542,Hospital A
+5,65.7,Male,147,73,Never,No chest pain,White,Control,Yes,738,Hospital A
+6,64.6,Male,167,94,Past,No chest pain,Asian,Intervention,Yes,553,Hospital A
+7,70.3,Male,152,63,Current,No chest pain,White,Intervention,Yes,132,Hospital A
+8,67.7,Female,213,66,Past,Typical chest pain,White,Intervention,Yes,1219,Hospital A
+9,63.8,Male,147,87,Never,Typical chest pain,White,Intervention,Yes,538,Hospital A
+10,69.3,Female,177,70,Past,Typical chest pain,White,Control,No,1620,Hospital A
+11,70.8,Female,157,63,Past,No chest pain,White,Intervention,No,1592,Hospital A
+12,67.7,Male,141,89,Current,No chest pain,White,Control,Yes,1296,Hospital A
+13,66.3,Female,123,74,Never,No chest pain,Other,Control,No,1606,Hospital A
+14,65.6,Female,163,80,Past,No chest pain,Asian,Control,Yes,551,Hospital A
+15,62.3,Male,159,85,Never,Nonanginal pain,Asian,Intervention,Yes,486,Hospital A
+16,70.3,Male,153,67,Never,Nonanginal pain,White,Intervention,Yes,730,Hospital A
+17,69.8,Male,170,99,Never,No chest pain,Asian,Intervention,Yes,361,Hospital A
+18,69.6,Male,142,80,Never,No chest pain,White,Intervention,Yes,129,Hospital A
+19,65.4,Female,117,87,Never,Typical chest pain,White,Intervention,No,1654,Hospital A
+20,63.9,Male,164,89,Current,Atypical chest pain,White,Control,No,1566,Hospital A
+21,72.7,Female,143,83,Never,Nonanginal pain,White,Intervention,No,1657,Hospital A
+22,65.5,Male,198,50,Current,Atypical chest pain,Asian,Intervention,Yes,1158,Hospital A
+23,69.9,Male,148,74,Past,Nonanginal pain,Black,Intervention,No,1579,Hospital A
+24,67.7,Male,162,70,Never,Typical chest pain,White,Control,Yes,371,Hospital A
+25,62.5,Male,171,84,Current,No chest pain,White,Control,Yes,505,Hospital A
+26,64.0,Male,193,50,Current,No chest pain,White,Intervention,No,1657,Hospital A
+27,70.5,Male,120,90,Current,Atypical chest pain,Other,Control,Yes,1154,Hospital A
+28,67.0,Female,135,82,Never,No chest pain,White,Intervention,No,1590,Hospital A
+29,65.6,Male,138,73,Current,Typical chest pain,White,Intervention,Yes,1153,Hospital A
+30,71.2,Male,155,73,Past,Nonanginal pain,White,Intervention,No,1657,Hospital A
+31,69.1,Female,137,67,Never,Nonanginal pain,Black,Control,No,1584,Hospital A
+32,67.7,Male,144,95,Current,Nonanginal pain,White,Intervention,No,1657,Hospital A
+33,71.4,Female,103,77,Current,Nonanginal pain,Other,Control,No,1594,Hospital A
+34,66.9,Female,136,98,Current,No chest pain,Black,Intervention,Yes,1195,Hospital A
+35,66.6,Male,137,79,Current,Typical chest pain,White,Control,Yes,892,Hospital A
+36,69.7,Female,151,104,Never,Typical chest pain,White,Intervention,Yes,1365,Hospital A
+37,65.7,Male,133,60,Past,No chest pain,Asian,Intervention,No,1601,Hospital A
+38,61.4,Female,145,68,Never,Atypical chest pain,White,Intervention,No,1540,Hospital A
+39,65.5,Male,134,62,Never,No chest pain,White,Control,No,1651,Hospital A
+40,69.4,Male,135,74,Never,Nonanginal pain,White,Control,Yes,597,Hospital A
+41,64.1,Male,161,96,Never,No chest pain,White,Control,Yes,236,Hospital A
+42,68.1,Female,117,76,Never,No chest pain,White,Control,Yes,830,Hospital A
+43,62.4,Male,173,69,Never,Atypical chest pain,White,Control,No,1518,Hospital A
+44,68.5,Male,171,92,Never,No chest pain,Black,Intervention,No,1581,Hospital A
+45,61.6,Male,90,105,Past,Atypical chest pain,White,Control,No,1554,Hospital A
+46,70.0,Male,130,74,Past,Atypical chest pain,White,Control,Yes,863,Hospital A
+47,68.2,Male,164,67,Never,No chest pain,Asian,Control,Yes,995,Hospital A
+48,62.9,Male,172,79,Current,Atypical chest pain,Asian,Control,No,1657,Hospital A
+49,65.8,Male,156,75,Current,Nonanginal pain,Asian,Control,No,1450,Hospital A
+50,66.4,Male,172,88,Past,Nonanginal pain,White,Intervention,Yes,807,Hospital A
+51,65.5,Male,150,71,Past,No chest pain,White,Intervention,Yes,717,Hospital A
+52,66.6,Female,176,56,Current,No chest pain,White,Intervention,No,1657,Hospital A
+53,68.8,Female,154,79,Current,Typical chest pain,White,Intervention,Yes,251,Hospital A
+54,69.1,Male,181,79,Current,No chest pain,White,Control,Yes,1131,Hospital A
+55,69.3,Male,96,87,Past,Typical chest pain,White,Control,Yes,648,Hospital A
+56,64.5,Male,122,79,Past,No chest pain,Other,Control,Yes,30,Hospital A
+57,63.4,Male,165,59,Current,No chest pain,Other,Control,No,1657,Hospital A
+58,65.1,Female,129,86,Current,Nonanginal pain,White,Intervention,No,1593,Hospital A
+59,65.3,Female,203,101,Never,Nonanginal pain,White,Intervention,Yes,1124,Hospital A
+60,67.1,Male,142,79,Current,Atypical chest pain,White,Intervention,No,1537,Hospital A
+61,70.1,Male,175,76,Past,Nonanginal pain,Black,Intervention,Yes,214,Hospital A
+62,65.1,Male,135,56,Past,Atypical chest pain,White,Control,Yes,672,Hospital A
+63,66.0,Male,167,88,Current,No chest pain,White,Intervention,No,1657,Hospital A
+64,69.6,Male,150,82,Never,No chest pain,White,Control,Yes,735,Hospital A
+65,69.8,Female,149,96,Past,Typical chest pain,White,Intervention,Yes,1252,Hospital A
+66,66.4,Female,162,50,Past,No chest pain,White,Intervention,Yes,840,Hospital A
+67,63.6,Female,146,93,Past,Atypical chest pain,White,Control,Yes,1003,Hospital A
+68,60.4,Female,172,67,Past,Atypical chest pain,Other,Intervention,Yes,1208,Hospital A
+69,65.1,Male,142,75,Past,Atypical chest pain,White,Intervention,No,1609,Hospital A
+70,65.0,Female,128,98,Past,Atypical chest pain,Other,Intervention,No,1542,Hospital A
+71,62.1,Female,111,83,Never,Atypical chest pain,White,Intervention,Yes,841,Hospital A
+72,64.3,Female,119,57,Never,No chest pain,White,Intervention,Yes,748,Hospital A
+73,72.4,Female,189,50,Current,Atypical chest pain,White,Intervention,No,1517,Hospital A
+74,61.7,Female,161,83,Past,Nonanginal pain,White,Intervention,Yes,1172,Hospital A
+75,63.2,Male,111,70,Current,Typical chest pain,White,Intervention,Yes,479,Hospital A
+76,62.5,Male,214,50,Past,Nonanginal pain,White,Intervention,Yes,654,Hospital A
+77,66.2,Female,119,80,Current,Nonanginal pain,Asian,Intervention,No,1657,Hospital A
+78,64.3,Male,143,56,Never,Typical chest pain,Black,Intervention,Yes,610,Hospital A
+79,67.7,Female,129,63,Current,Typical chest pain,White,Control,Yes,584,Hospital A
+80,69.2,Female,140,82,Current,Nonanginal pain,Other,Control,No,1558,Hospital A
+81,65.5,Male,175,92,Never,Nonanginal pain,White,Control,No,1606,Hospital A
+82,63.5,Male,161,68,Never,Atypical chest pain,White,Control,No,1508,Hospital A
+83,67.1,Female,132,93,Past,No chest pain,White,Control,No,1403,Hospital A
+84,68.3,Male,135,51,Past,Atypical chest pain,White,Intervention,No,1641,Hospital A
+85,63.6,Male,187,92,Current,Nonanginal pain,White,Control,No,1481,Hospital A
+86,66.6,Male,150,52,Current,Atypical chest pain,White,Intervention,No,1474,Hospital A
+87,68.3,Female,135,78,Current,No chest pain,White,Intervention,No,1593,Hospital A
+88,61.1,Male,137,101,Past,No chest pain,Black,Intervention,No,1657,Hospital A
+89,65.9,Male,174,85,Past,No chest pain,White,Intervention,No,1444,Hospital A
+90,64.0,Male,134,80,Past,Nonanginal pain,White,Control,No,1562,Hospital A
+91,68.5,Female,154,68,Past,Atypical chest pain,Asian,Intervention,No,1553,Hospital A
+92,59.5,Male,156,81,Past,Atypical chest pain,White,Control,No,1502,Hospital A
+93,62.9,Male,114,92,Never,Nonanginal pain,White,Control,Yes,312,Hospital A
+94,64.6,Male,194,87,Current,Nonanginal pain,Black,Control,Yes,921,Hospital A
+95,67.6,Female,129,74,Never,Typical chest pain,White,Control,No,1534,Hospital A
+96,64.6,Female,90,79,Current,No chest pain,White,Intervention,No,1535,Hospital A
+97,64.1,Female,125,81,Never,No chest pain,Black,Control,No,1592,Hospital A
+98,66.2,Female,163,85,Past,No chest pain,Other,Intervention,No,1570,Hospital A
+99,71.1,Male,184,53,Current,Typical chest pain,White,Control,Yes,749,Hospital A
+100,64.8,Male,160,50,Never,Nonanginal pain,White,Control,No,1657,Hospital A
+101,69.7,Male,177,89,Past,No chest pain,White,Control,Yes,554,Hospital A
+102,63.8,Male,124,101,Never,No chest pain,White,Intervention,No,1625,Hospital A
+103,66.6,Female,171,70,Current,No chest pain,Black,Intervention,Yes,924,Hospital A
+104,66.0,Female,170,77,Current,No chest pain,White,Intervention,Yes,759,Hospital A
+105,65.8,Female,124,50,Past,No chest pain,White,Control,Yes,690,Hospital A
+106,67.2,Male,105,50,Never,Nonanginal pain,White,Control,No,1657,Hospital A
+107,67.0,Male,149,70,Never,Atypical chest pain,White,Intervention,No,1588,Hospital A
+108,62.8,Male,149,93,Current,Atypical chest pain,Asian,Control,Yes,917,Hospital A
+109,63.9,Male,160,60,Never,Nonanginal pain,Asian,Intervention,Yes,854,Hospital A
+110,67.0,Female,150,80,Current,Typical chest pain,White,Control,Yes,687,Hospital A
+111,65.3,Male,166,62,Current,Atypical chest pain,Other,Control,Yes,97,Hospital A
+112,64.2,Female,146,76,Current,Nonanginal pain,Asian,Control,No,1644,Hospital A
+113,70.6,Female,99,58,Never,Typical chest pain,Black,Intervention,Yes,421,Hospital A
+114,65.2,Male,134,105,Past,Nonanginal pain,White,Control,Yes,627,Hospital A
+115,65.9,Male,137,67,Current,Atypical chest pain,White,Intervention,Yes,1033,Hospital A
+116,68.3,Female,183,71,Past,Nonanginal pain,White,Control,Yes,1110,Hospital A
+117,63.8,Female,163,52,Never,Nonanginal pain,White,Intervention,Yes,793,Hospital A
+118,66.4,Male,168,74,Current,No chest pain,White,Control,Yes,638,Hospital A
+119,68.7,Male,115,77,Never,Typical chest pain,Black,Control,Yes,521,Hospital A
+120,65.2,Male,129,88,Current,Atypical chest pain,Black,Control,Yes,640,Hospital A
+121,67.3,Male,139,60,Never,Nonanginal pain,White,Intervention,No,1594,Hospital A
+122,68.7,Female,174,60,Current,Typical chest pain,White,Intervention,Yes,1207,Hospital A
+123,61.9,Female,129,86,Past,Atypical chest pain,Asian,Intervention,No,1657,Hospital A
+124,62.1,Male,141,88,Never,No chest pain,White,Intervention,Yes,379,Hospital A
+125,69.3,Male,165,70,Current,No chest pain,Black,Control,Yes,635,Hospital A
+126,62.7,Male,153,83,Past,Typical chest pain,Asian,Intervention,Yes,31,Hospital A
+127,66.6,Male,162,86,Current,Nonanginal pain,White,Intervention,Yes,559,Hospital A
+128,62.6,Male,166,66,Past,Nonanginal pain,White,Control,No,1653,Hospital A
+129,67.2,Female,159,69,Past,Typical chest pain,Black,Intervention,No,1657,Hospital A
+130,67.8,Female,173,70,Past,Typical chest pain,White,Intervention,No,1531,Hospital A
+131,67.7,Female,120,73,Past,Atypical chest pain,White,Intervention,Yes,219,Hospital A
+132,66.9,Female,170,64,Never,No chest pain,Black,Intervention,No,1611,Hospital A
+133,69.2,Male,110,61,Never,Nonanginal pain,White,Control,No,1657,Hospital A
+134,66.7,Male,140,55,Never,Nonanginal pain,White,Control,Yes,879,Hospital A
+135,63.5,Female,150,50,Past,Typical chest pain,Other,Intervention,Yes,878,Hospital A
+136,63.3,Female,175,86,Never,No chest pain,White,Control,No,1475,Hospital A
+137,70.6,Female,184,69,Never,Typical chest pain,White,Intervention,No,1657,Hospital A
+138,66.6,Male,181,79,Past,No chest pain,Other,Intervention,Yes,769,Hospital A
+139,71.2,Male,134,77,Never,Typical chest pain,Asian,Intervention,No,1564,Hospital A
+140,65.7,Male,155,73,Past,Atypical chest pain,White,Intervention,Yes,1413,Hospital A
+141,65.7,Male,162,79,Never,Typical chest pain,White,Intervention,Yes,377,Hospital A
+142,66.1,Male,168,66,Past,Atypical chest pain,White,Control,Yes,428,Hospital A
+143,62.5,Female,150,60,Past,Atypical chest pain,Other,Intervention,Yes,633,Hospital A
+144,66.7,Female,132,57,Current,Nonanginal pain,White,Control,No,1507,Hospital A
+145,68.4,Male,193,67,Current,No chest pain,Black,Intervention,Yes,284,Hospital A
+146,67.9,Male,159,91,Current,Nonanginal pain,White,Control,Yes,428,Hospital A
+147,62.7,Female,189,71,Past,Typical chest pain,Asian,Control,Yes,757,Hospital A
+148,69.5,Male,150,91,Current,Atypical chest pain,White,Control,No,1562,Hospital A
+149,63.5,Male,148,68,Past,Nonanginal pain,Asian,Intervention,Yes,496,Hospital A
+150,67.9,Female,138,68,Current,No chest pain,White,Intervention,No,1657,Hospital A
+151,62.8,Male,99,54,Never,No chest pain,Black,Intervention,Yes,368,Hospital A
+152,62.3,Female,141,88,Current,Atypical chest pain,White,Intervention,No,1582,Hospital A
+153,66.0,Female,167,60,Past,No chest pain,White,Intervention,No,1607,Hospital A
+154,64.5,Male,209,96,Past,Typical chest pain,White,Intervention,No,1657,Hospital A
+155,67.5,Male,136,92,Current,Typical chest pain,Asian,Control,Yes,773,Hospital A
+156,67.0,Male,126,77,Current,No chest pain,White,Intervention,No,1648,Hospital A
+157,62.1,Male,144,53,Current,Nonanginal pain,Asian,Control,Yes,1656,Hospital A
+158,70.2,Male,148,69,Current,Atypical chest pain,White,Intervention,No,1540,Hospital A
+159,60.0,Male,177,81,Never,Nonanginal pain,Asian,Intervention,No,1639,Hospital A
+160,70.6,Male,125,62,Never,Nonanginal pain,White,Control,Yes,267,Hospital A
+161,67.6,Female,149,71,Current,Atypical chest pain,Black,Intervention,Yes,280,Hospital A
+162,63.5,Female,129,76,Past,Nonanginal pain,White,Intervention,No,1524,Hospital A
+163,60.6,Female,159,73,Never,Nonanginal pain,White,Intervention,No,1636,Hospital A
+164,64.2,Female,191,101,Never,Nonanginal pain,White,Intervention,No,1439,Hospital A
+165,65.8,Male,173,71,Past,No chest pain,Black,Intervention,Yes,1083,Hospital A
+166,63.7,Female,144,56,Past,Nonanginal pain,White,Control,No,1608,Hospital A
+167,68.0,Male,151,91,Current,Atypical chest pain,White,Control,No,1636,Hospital A
+168,60.4,Female,176,76,Past,Atypical chest pain,White,Control,Yes,267,Hospital A
+169,60.9,Male,153,97,Never,Typical chest pain,White,Control,Yes,563,Hospital A
+170,70.7,Male,139,57,Never,No chest pain,White,Intervention,Yes,726,Hospital A
+171,63.2,Male,136,68,Current,Atypical chest pain,White,Intervention,No,1575,Hospital A
+172,61.4,Male,147,80,Past,Typical chest pain,White,Control,No,1536,Hospital A
+173,65.7,Male,149,100,Current,Atypical chest pain,Asian,Control,Yes,474,Hospital A
+174,63.1,Female,129,88,Never,Typical chest pain,White,Intervention,Yes,1173,Hospital A
+175,68.7,Male,186,80,Current,Atypical chest pain,White,Intervention,Yes,30,Hospital A
+176,64.0,Male,187,71,Current,Nonanginal pain,White,Control,No,1652,Hospital A
+177,63.1,Male,124,79,Past,No chest pain,Other,Intervention,Yes,996,Hospital A
+178,67.2,Male,192,54,Current,No chest pain,White,Control,Yes,1263,Hospital A
+179,71.5,Female,149,79,Never,Atypical chest pain,White,Intervention,Yes,476,Hospital A
+180,64.0,Male,157,96,Never,Atypical chest pain,White,Intervention,No,1556,Hospital A
+181,61.8,Male,148,54,Never,Atypical chest pain,White,Control,No,1657,Hospital A
+182,60.2,Female,187,65,Current,Nonanginal pain,White,Control,Yes,632,Hospital A
+183,62.7,Female,141,105,Never,Typical chest pain,White,Control,No,1538,Hospital A
+184,63.2,Female,172,108,Current,No chest pain,White,Intervention,No,1563,Hospital A
+185,64.1,Male,228,50,Current,Nonanginal pain,White,Intervention,Yes,781,Hospital A
+186,63.8,Male,159,72,Past,Atypical chest pain,White,Control,No,1465,Hospital A
+187,67.7,Male,128,70,Never,Nonanginal pain,White,Intervention,Yes,554,Hospital A
+188,66.2,Male,92,74,Past,Atypical chest pain,White,Intervention,Yes,697,Hospital A
+189,63.1,Female,171,71,Never,Typical chest pain,White,Control,Yes,310,Hospital A
+190,67.2,Female,165,62,Past,Nonanginal pain,White,Control,Yes,376,Hospital A
+191,66.1,Female,196,89,Current,No chest pain,White,Intervention,No,1649,Hospital A
+192,62.1,Male,153,66,Never,No chest pain,White,Intervention,No,1657,Hospital A
+193,67.2,Male,129,70,Past,Typical chest pain,Asian,Intervention,No,1614,Hospital A
+194,65.9,Male,122,71,Current,Typical chest pain,White,Control,Yes,705,Hospital A
+195,61.7,Female,178,96,Past,Typical chest pain,White,Control,No,1591,Hospital A
+196,62.8,Female,181,53,Never,No chest pain,White,Control,No,1578,Hospital A
+197,66.0,Male,157,68,Past,Nonanginal pain,Black,Intervention,Yes,1249,Hospital A
+198,64.9,Female,213,95,Past,Atypical chest pain,Black,Intervention,Yes,1164,Hospital A
+199,66.6,Male,158,73,Current,Nonanginal pain,White,Intervention,No,1582,Hospital A
+200,69.3,Male,165,84,Never,Atypical chest pain,Asian,Intervention,Yes,230,Hospital A
+201,65.2,Male,151,100,Never,Nonanginal pain,White,Control,Yes,1071,Hospital B
+202,62.6,Male,167,91,Never,Atypical chest pain,White,Intervention,Yes,753,Hospital B
+203,65.1,Male,141,75,Current,Atypical chest pain,White,Control,No,1590,Hospital B
+204,61.0,Male,185,60,Current,Nonanginal pain,White,Control,Yes,329,Hospital B
+205,62.3,Female,115,88,Past,Nonanginal pain,White,Control,Yes,342,Hospital B
+206,66.8,Female,97,81,Past,No chest pain,White,Control,Yes,878,Hospital B
+207,64.5,Male,157,88,Never,Nonanginal pain,Asian,Control,No,1612,Hospital B
+208,71.7,Male,144,76,Never,Typical chest pain,White,Control,Yes,1000,Hospital B
+209,65.3,Male,160,67,Past,Nonanginal pain,White,Intervention,Yes,973,Hospital B
+210,66.7,Male,162,69,Past,Nonanginal pain,Other,Intervention,Yes,719,Hospital B
+211,64.0,Male,125,50,Current,Nonanginal pain,Asian,Control,Yes,30,Hospital B
+212,64.1,Female,158,91,Past,No chest pain,Asian,Control,No,1641,Hospital B
+213,62.8,Female,156,53,Current,Nonanginal pain,White,Intervention,No,1594,Hospital B
+214,60.4,Female,189,97,Never,Atypical chest pain,White,Control,No,1592,Hospital B
+215,62.4,Male,146,61,Current,Nonanginal pain,White,Control,Yes,505,Hospital B
+216,62.7,Female,170,83,Never,Typical chest pain,Black,Intervention,No,1632,Hospital B
+217,66.3,Male,159,50,Current,Nonanginal pain,Black,Control,No,1563,Hospital B
+218,64.4,Female,129,59,Past,No chest pain,White,Intervention,No,1563,Hospital B
+219,68.3,Male,121,51,Never,No chest pain,Black,Intervention,No,1611,Hospital B
+220,61.5,Female,159,61,Current,No chest pain,Other,Intervention,Yes,1238,Hospital B
+221,58.4,Male,147,61,Current,No chest pain,White,Control,Yes,478,Hospital B
+222,64.9,Male,145,90,Current,Nonanginal pain,White,Intervention,Yes,1035,Hospital B
+223,62.0,Female,139,50,Never,Typical chest pain,White,Intervention,No,1605,Hospital B
+224,63.7,Male,119,83,Current,Typical chest pain,White,Control,Yes,597,Hospital B
+225,69.1,Female,117,70,Current,Nonanginal pain,White,Control,Yes,1047,Hospital B
+226,64.0,Male,163,56,Past,No chest pain,White,Control,No,1656,Hospital B
+227,69.1,Male,126,86,Never,No chest pain,White,Control,Yes,306,Hospital B
+228,66.4,Male,203,89,Current,No chest pain,White,Control,Yes,467,Hospital B
+229,61.8,Male,170,77,Never,Typical chest pain,White,Control,Yes,852,Hospital B
+230,61.9,Male,121,97,Current,Nonanginal pain,White,Intervention,Yes,546,Hospital B
+231,61.3,Male,107,89,Never,No chest pain,White,Control,Yes,653,Hospital B
+232,61.2,Female,138,70,Never,Atypical chest pain,Black,Intervention,No,1607,Hospital B
+233,66.5,Male,123,62,Never,Typical chest pain,White,Control,No,1598,Hospital B
+234,61.8,Male,135,56,Never,No chest pain,White,Control,Yes,30,Hospital B
+235,64.3,Male,137,85,Current,Atypical chest pain,White,Intervention,Yes,1057,Hospital B
+236,67.8,Male,167,101,Current,No chest pain,White,Control,Yes,423,Hospital B
+237,66.7,Male,149,81,Never,No chest pain,Other,Intervention,Yes,124,Hospital B
+238,65.4,Male,105,78,Current,No chest pain,White,Control,Yes,30,Hospital B
+239,59.9,Female,113,63,Past,No chest pain,White,Control,No,1562,Hospital B
+240,68.2,Male,167,68,Past,Atypical chest pain,White,Control,Yes,656,Hospital B
+241,64.8,Female,170,68,Current,No chest pain,White,Control,No,1657,Hospital B
+242,67.6,Female,126,70,Current,Atypical chest pain,White,Control,Yes,720,Hospital B
+243,66.2,Male,154,57,Past,Atypical chest pain,White,Control,No,1657,Hospital B
+244,61.4,Male,187,76,Past,No chest pain,White,Intervention,Yes,238,Hospital B
+245,64.6,Female,100,85,Past,Typical chest pain,White,Intervention,Yes,531,Hospital B
+246,68.7,Male,125,80,Never,No chest pain,Black,Control,Yes,422,Hospital B
+247,69.3,Male,154,55,Past,No chest pain,White,Control,No,1559,Hospital B
+248,63.7,Male,152,66,Past,Nonanginal pain,White,Control,No,1657,Hospital B
+249,66.5,Male,178,79,Past,No chest pain,White,Control,Yes,524,Hospital B
+250,61.2,Female,142,79,Never,Nonanginal pain,White,Intervention,No,1580,Hospital B
+251,66.4,Male,177,68,Current,Typical chest pain,White,Intervention,Yes,99,Hospital B
+252,59.6,Female,91,78,Never,Typical chest pain,White,Control,No,1621,Hospital B
+253,61.9,Male,167,66,Past,Atypical chest pain,White,Control,No,1634,Hospital B
+254,67.2,Male,126,77,Past,Nonanginal pain,Asian,Control,No,1415,Hospital B
+255,61.1,Female,151,53,Never,Nonanginal pain,White,Control,No,1631,Hospital B
+256,63.0,Male,160,60,Past,Nonanginal pain,White,Intervention,No,1559,Hospital B
+257,67.5,Female,162,51,Current,Nonanginal pain,White,Intervention,No,1601,Hospital B
+258,61.3,Female,144,64,Current,Atypical chest pain,Other,Intervention,No,1545,Hospital B
+259,64.4,Female,188,66,Never,Typical chest pain,White,Control,Yes,86,Hospital B
+260,62.1,Male,110,64,Current,No chest pain,Other,Control,Yes,505,Hospital B
+261,65.6,Female,167,68,Past,Typical chest pain,White,Intervention,No,1563,Hospital B
+262,67.1,Female,118,72,Never,Typical chest pain,White,Control,No,1611,Hospital B
+263,59.7,Male,136,71,Past,Atypical chest pain,White,Intervention,Yes,104,Hospital B
+264,66.3,Male,104,82,Past,No chest pain,Other,Intervention,Yes,474,Hospital B
+265,65.8,Male,155,50,Never,Nonanginal pain,White,Control,Yes,255,Hospital B
+266,65.0,Male,169,60,Past,Nonanginal pain,Other,Intervention,Yes,956,Hospital B
+267,63.0,Male,125,85,Past,Typical chest pain,Other,Intervention,Yes,475,Hospital B
+268,64.9,Female,150,89,Current,Atypical chest pain,White,Intervention,No,1580,Hospital B
+269,66.4,Male,166,84,Never,Atypical chest pain,White,Control,Yes,648,Hospital B
+270,58.1,Male,137,80,Never,Nonanginal pain,White,Intervention,No,1560,Hospital B
+271,65.1,Male,175,63,Current,Nonanginal pain,Black,Intervention,Yes,471,Hospital B
+272,62.7,Female,150,83,Past,Nonanginal pain,White,Intervention,No,1541,Hospital B
+273,64.8,Male,121,54,Never,Nonanginal pain,Black,Intervention,No,1520,Hospital B
+274,66.6,Male,160,54,Never,No chest pain,Asian,Intervention,No,1631,Hospital B
+275,64.9,Male,123,73,Current,No chest pain,White,Intervention,No,1657,Hospital B
+276,68.6,Male,129,83,Never,Atypical chest pain,White,Intervention,Yes,783,Hospital B
+277,63.3,Female,156,68,Past,No chest pain,Asian,Control,Yes,661,Hospital B
+278,66.5,Male,178,76,Current,Typical chest pain,White,Intervention,Yes,289,Hospital B
+279,58.6,Male,115,78,Current,Nonanginal pain,Other,Control,No,1657,Hospital B
+280,65.2,Male,177,80,Never,No chest pain,White,Control,No,1582,Hospital B
+281,62.9,Male,132,77,Current,Typical chest pain,White,Intervention,Yes,1233,Hospital B
+282,63.2,Male,212,76,Current,No chest pain,White,Control,Yes,594,Hospital B
+283,60.5,Male,154,65,Past,No chest pain,White,Intervention,No,1657,Hospital B
+284,61.5,Female,152,61,Current,No chest pain,White,Control,Yes,641,Hospital B
+285,62.8,Male,143,71,Past,Nonanginal pain,White,Intervention,No,1531,Hospital B
+286,64.9,Male,174,78,Current,Nonanginal pain,White,Intervention,No,1507,Hospital B
+287,68.1,Male,90,68,Never,Typical chest pain,Other,Intervention,No,1490,Hospital B
+288,66.3,Male,175,71,Current,Atypical chest pain,White,Control,Yes,300,Hospital B
+289,65.6,Male,149,52,Past,No chest pain,White,Intervention,Yes,777,Hospital B
+290,61.2,Male,164,50,Past,Nonanginal pain,White,Intervention,No,1657,Hospital B
+291,66.5,Male,147,50,Never,Atypical chest pain,White,Control,Yes,1272,Hospital B
+292,64.2,Male,175,88,Current,Atypical chest pain,White,Control,No,1657,Hospital B
+293,65.3,Male,160,80,Past,Nonanginal pain,White,Intervention,No,1599,Hospital B
+294,62.7,Male,170,81,Current,No chest pain,Asian,Control,No,1657,Hospital B
+295,62.2,Male,195,60,Never,No chest pain,Other,Control,No,1587,Hospital B
+296,66.5,Male,164,75,Current,Atypical chest pain,White,Intervention,No,1530,Hospital B
+297,64.0,Male,111,83,Current,Nonanginal pain,White,Intervention,No,1657,Hospital B
+298,64.8,Female,169,52,Never,Atypical chest pain,White,Control,Yes,301,Hospital B
+299,62.9,Male,148,59,Past,Nonanginal pain,White,Intervention,Yes,307,Hospital B
+300,64.5,Female,165,82,Never,Atypical chest pain,White,Control,No,1650,Hospital B
+301,69.8,Male,166,71,Current,Typical chest pain,Asian,Control,No,1624,Hospital C
+302,69.3,Male,157,102,Past,Atypical chest pain,Other,Control,Yes,845,Hospital C
+303,67.4,Male,151,99,Past,No chest pain,White,Intervention,Yes,502,Hospital C
+304,65.5,Male,143,52,Current,Atypical chest pain,Black,Intervention,No,1456,Hospital C
+305,66.1,Male,190,82,Never,No chest pain,White,Control,No,1657,Hospital C
+306,66.2,Male,149,100,Current,Nonanginal pain,White,Control,No,1489,Hospital C
+307,68.7,Male,168,101,Current,Nonanginal pain,Black,Control,No,1657,Hospital C
+308,67.8,Female,187,90,Past,Nonanginal pain,White,Intervention,Yes,74,Hospital C
+309,69.2,Male,140,62,Past,Atypical chest pain,White,Intervention,No,1531,Hospital C
+310,67.4,Female,212,61,Current,Nonanginal pain,White,Control,Yes,520,Hospital C
+311,74.0,Male,172,86,Current,Nonanginal pain,White,Intervention,Yes,1175,Hospital C
+312,67.6,Male,153,82,Never,Typical chest pain,White,Control,Yes,386,Hospital C
+313,65.9,Male,176,115,Past,Typical chest pain,White,Control,No,1543,Hospital C
+314,68.4,Male,158,58,Current,No chest pain,Asian,Control,Yes,635,Hospital C
+315,68.5,Male,166,50,Past,Nonanginal pain,Black,Control,Yes,888,Hospital C
+316,68.7,Male,144,84,Never,No chest pain,Black,Intervention,No,1657,Hospital C
+317,69.5,Male,171,79,Past,Atypical chest pain,White,Control,No,1576,Hospital C
+318,68.2,Male,183,50,Past,Atypical chest pain,White,Control,Yes,578,Hospital C
+319,70.4,Female,141,58,Past,Nonanginal pain,Black,Control,Yes,682,Hospital C
+320,67.9,Female,159,89,Current,No chest pain,White,Intervention,Yes,719,Hospital C
+321,64.0,Female,175,98,Never,Atypical chest pain,Other,Intervention,Yes,289,Hospital C
+322,66.1,Female,162,100,Never,Typical chest pain,White,Control,No,1496,Hospital C
+323,68.8,Male,181,71,Never,Typical chest pain,Black,Control,Yes,208,Hospital C
+324,69.3,Male,163,79,Current,Atypical chest pain,White,Control,No,1527,Hospital C
+325,71.8,Male,147,96,Past,Atypical chest pain,White,Intervention,Yes,786,Hospital C
+326,73.1,Female,229,75,Current,No chest pain,White,Intervention,Yes,723,Hospital C
+327,68.8,Male,214,71,Past,Atypical chest pain,White,Intervention,No,1558,Hospital C
+328,69.3,Male,166,77,Past,Atypical chest pain,White,Control,No,1535,Hospital C
+329,71.7,Male,192,52,Current,No chest pain,White,Intervention,Yes,761,Hospital C
+330,74.1,Male,168,78,Past,Nonanginal pain,Other,Control,Yes,426,Hospital C
+331,63.8,Male,168,85,Never,Nonanginal pain,White,Control,No,1612,Hospital C
+332,69.4,Female,143,71,Current,Typical chest pain,White,Intervention,Yes,937,Hospital C
+333,67.7,Male,171,97,Past,Typical chest pain,White,Intervention,Yes,1246,Hospital C
+334,71.5,Male,125,78,Never,Typical chest pain,White,Control,Yes,1191,Hospital C
+335,67.1,Female,200,99,Past,Typical chest pain,White,Control,No,1531,Hospital C
+336,65.8,Male,182,81,Past,Atypical chest pain,White,Intervention,No,1657,Hospital C
+337,69.2,Male,162,51,Past,Typical chest pain,Asian,Intervention,Yes,520,Hospital C
+338,68.0,Male,155,68,Never,No chest pain,Black,Control,No,1625,Hospital C
+339,72.8,Male,204,70,Past,Nonanginal pain,White,Intervention,Yes,512,Hospital C
+340,72.1,Male,141,50,Current,Typical chest pain,Black,Control,Yes,336,Hospital C
+341,65.3,Male,178,87,Current,Atypical chest pain,White,Control,Yes,694,Hospital C
+342,60.4,Male,158,77,Current,Typical chest pain,White,Intervention,No,1646,Hospital C
+343,67.2,Male,161,68,Never,Atypical chest pain,Asian,Control,No,1546,Hospital C
+344,70.2,Male,172,69,Current,Atypical chest pain,White,Control,No,1506,Hospital C
+345,70.9,Female,144,53,Never,Typical chest pain,White,Control,No,1608,Hospital C
+346,67.4,Female,134,69,Past,No chest pain,White,Control,No,1635,Hospital C
+347,68.9,Male,142,67,Current,Nonanginal pain,White,Intervention,Yes,786,Hospital C
+348,68.7,Male,210,50,Never,Atypical chest pain,White,Intervention,No,1500,Hospital C
+349,62.9,Male,182,83,Never,Atypical chest pain,Other,Intervention,No,1657,Hospital C
+350,70.1,Male,132,52,Past,Nonanginal pain,White,Control,No,1647,Hospital C
+351,69.2,Male,169,58,Never,Atypical chest pain,White,Control,No,1523,Hospital C
+352,64.8,Female,148,67,Current,Nonanginal pain,White,Intervention,No,1652,Hospital C
+353,67.7,Female,188,101,Past,Atypical chest pain,White,Control,No,1657,Hospital C
+354,67.3,Male,147,75,Past,No chest pain,White,Intervention,No,1552,Hospital C
+355,64.2,Male,180,56,Current,No chest pain,White,Control,Yes,938,Hospital C
+356,70.3,Male,168,68,Current,No chest pain,Black,Control,No,1433,Hospital C
+357,70.6,Male,138,66,Past,Typical chest pain,White,Control,Yes,1106,Hospital C
+358,69.6,Female,198,86,Never,Typical chest pain,White,Intervention,Yes,723,Hospital C
+359,64.7,Male,165,63,Current,Nonanginal pain,White,Control,No,1600,Hospital C
+360,68.8,Male,189,115,Never,No chest pain,White,Control,Yes,678,Hospital C
+361,68.8,Male,141,76,Current,Typical chest pain,White,Intervention,No,1657,Hospital C
+362,67.0,Female,127,97,Past,No chest pain,White,Control,No,1574,Hospital C
+363,69.3,Male,153,73,Never,No chest pain,Other,Intervention,No,1562,Hospital C
+364,65.2,Male,143,76,Past,Atypical chest pain,Asian,Intervention,No,1657,Hospital C
+365,69.8,Male,173,68,Current,Nonanginal pain,White,Intervention,No,1651,Hospital C
+366,66.9,Male,90,61,Past,No chest pain,White,Control,Yes,73,Hospital C
+367,64.6,Female,204,63,Current,Nonanginal pain,White,Intervention,No,1448,Hospital C
+368,67.2,Male,169,72,Never,No chest pain,White,Control,No,1657,Hospital C
+369,61.9,Male,187,65,Past,Atypical chest pain,Asian,Control,No,1657,Hospital C
+370,69.6,Male,194,50,Never,No chest pain,White,Intervention,No,1657,Hospital C
+371,62.9,Male,190,79,Current,No chest pain,Other,Control,No,1657,Hospital C
+372,65.7,Male,195,70,Past,Atypical chest pain,White,Control,Yes,633,Hospital C
+373,68.3,Male,216,74,Past,Nonanginal pain,White,Control,Yes,584,Hospital C
+374,69.8,Male,156,72,Never,No chest pain,White,Control,Yes,185,Hospital C
+375,70.8,Female,127,103,Past,No chest pain,White,Intervention,No,1476,Hospital C
+376,61.4,Male,149,53,Never,Nonanginal pain,White,Control,Yes,471,Hospital C
+377,66.9,Female,194,59,Current,Nonanginal pain,White,Control,Yes,339,Hospital C
+378,68.4,Male,135,79,Never,No chest pain,White,Control,Yes,1026,Hospital C
+379,69.5,Male,117,96,Current,Typical chest pain,White,Intervention,Yes,910,Hospital C
+380,65.7,Female,145,71,Never,Atypical chest pain,Other,Intervention,No,1618,Hospital C
+381,65.1,Female,127,55,Past,Atypical chest pain,Asian,Control,Yes,767,Hospital C
+382,73.2,Male,179,62,Never,No chest pain,Black,Intervention,Yes,600,Hospital C
+383,70.7,Male,197,74,Past,Nonanginal pain,White,Intervention,Yes,923,Hospital C
+384,72.1,Female,162,80,Never,Nonanginal pain,White,Intervention,No,1452,Hospital C
+385,67.3,Male,162,50,Past,No chest pain,White,Control,No,1657,Hospital C
+386,66.6,Male,202,88,Never,No chest pain,Black,Intervention,Yes,737,Hospital C
+387,64.3,Male,154,65,Current,Nonanginal pain,White,Intervention,No,1513,Hospital C
+388,71.3,Male,127,75,Current,Nonanginal pain,Asian,Intervention,No,1468,Hospital C
+389,69.2,Female,202,63,Never,Nonanginal pain,Black,Intervention,No,1586,Hospital C
+390,70.3,Male,155,59,Never,Atypical chest pain,Asian,Intervention,No,1594,Hospital C
+391,67.3,Male,168,81,Past,No chest pain,White,Intervention,Yes,1270,Hospital C
+392,64.3,Male,192,66,Never,Atypical chest pain,Black,Control,No,1559,Hospital C
+393,70.3,Male,137,62,Never,Nonanginal pain,Black,Intervention,Yes,795,Hospital C
+394,66.1,Male,159,50,Never,No chest pain,Black,Control,No,1657,Hospital C
+395,64.4,Male,180,65,Current,No chest pain,White,Intervention,No,1596,Hospital C
+396,68.3,Male,215,70,Never,No chest pain,White,Intervention,No,1578,Hospital C
+397,68.3,Male,124,52,Past,Atypical chest pain,White,Control,No,1622,Hospital C
+398,72.1,Male,155,51,Current,No chest pain,Other,Intervention,No,1657,Hospital C
+399,66.1,Female,166,95,Never,Nonanginal pain,Black,Control,No,1657,Hospital C
+400,65.9,Male,126,81,Never,No chest pain,White,Intervention,No,1624,Hospital C
